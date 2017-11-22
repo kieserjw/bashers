@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Takes in a URL of a m3u[8] file (and optionally a name for the video
+# Takes in a URL of a m3u[8] file (and optionally a name for the video)
 # Downloads the ts files and combines them into a final video for easy uploading/converting
 
 if [ $# -eq 2 ]; then
